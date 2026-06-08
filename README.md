@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**SFrehman/SFrehman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full-Stack & Mobile Developer
+I am a passionate developer focused on building scalable web applications and efficient mobile experiences. I love exploring low-level computer science concepts and optimizing performance.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+
+* **Frontend:** React, HTML5, CSS3, JavaScript
+* **Backend:** Node.js, Express.js, MongoDB (MERN Stack)
+* **Mobile:** Android Studio, Kotlin, Java, Capacitor
+* **Core CS:** Compiler Construction, Parallel Computing, Data Structures
+
+---
+
+### 📈 Current Focus & Projects
+* 💻 Developing **Downora** – a cross-platform downloading application.
+* 🤖 Experimenting with **Local & Offline AI** (running optimized, private models locally).
+* 🔧 Building custom automation tools and build systems.
+
+---
+
+### 📫 Connect with Me
+* 💼 [LinkedIn](YOUR_LINKEDIN_URL)
+* 📧 [Email](mailto:your.email@example.com)
+
+*“Striving to write clean, efficient, and impactful code.”*
