@@ -64,7 +64,6 @@ I'm a Computer Science student and aspiring software engineer from Faisalabad, P
 ## 🚀 Featured Projects & Current Focus
 
 - 🎬 **AI Video Automation:** Developing an AI-powered pipeline to identify engaging video moments and generate short-form content.
-- 📥 **Downora:** Building a web-based utility with React and Tailwind CSS.
 - 💬 **Hello App:** Developing a chat application using the MERN stack.
 - 📱 **Mobile Applications:** Exploring practical Android and cross-platform app development.
 - 🧠 **AI-Integrated Applications:** Experimenting with AI APIs, automation workflows, and lightweight language models.
@@ -87,18 +86,6 @@ I'm a Computer Science student and aspiring software engineer from Faisalabad, P
 - Google AI Professional Certificate
 - Google Ads for Beginners
 - Search Engine Optimization (SEO) with Squarespace
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SFrehman&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Statistics" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SFrehman&layout=compact&theme=radical" alt="Most Used Languages" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=SFrehman&theme=radical" alt="GitHub Contribution Streak" />
-</p>
 
 ---
 
